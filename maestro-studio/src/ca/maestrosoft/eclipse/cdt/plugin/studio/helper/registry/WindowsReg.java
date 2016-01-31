@@ -328,8 +328,8 @@ public class WindowsReg {
 	  }
 	  int[] info = (int[]) regQueryInfoKey.invoke(root, new Object[] { new Integer(handles[0]) });
 
-	  int count = info[0]; // count  
-	  int maxlen = info[3]; // value length max
+	  int count = info[2]; // count  
+	  int maxlen = info[4]; // value length max
 	  for(int index=0; index<count; index++)  {
 		  byte[] name = (byte[]) regEnumValue.invoke(root, new Object[] { new Integer(handles[0]), new Integer(index), new Integer(maxlen + 1)});
 		  String value = readString(hkey, key, new String(name));
