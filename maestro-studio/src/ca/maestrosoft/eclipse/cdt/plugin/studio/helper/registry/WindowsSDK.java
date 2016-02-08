@@ -115,7 +115,16 @@ import ca.maestrosoft.eclipse.cdt.plugin.studio.toolchain.manager.ToolchainSet;
 			}
 			
 			if(processorPath != "") {
-				return winSDKLibPath + "\\" + processorPath;
+			   String libFolders[] = winSDKLibPath.split(";");
+			   if(libFolders.length <= 1) {
+			      return winSDKLibPath + "\\" + processorPath;
+			   }
+			   String sdkLibPath = "";
+			   for(String libpath : libFolders) {
+		         sdkLibPath += libpath + "\\" + processorPath + ";";
+			   }
+			   sdkLibPath = sdkLibPath.substring(0, sdkLibPath.length()-1);
+			   return sdkLibPath;
 			}
 			return winSDKLibPath;
 		}
