@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="ca.maestrosoft.eclipse.feature.studio"
+      label="Maestrosoft Technologies C/C++ Studio"
+      version="8.5.0.qualifier"
+      provider-name="Maestrosoft Technologies"
+      plugin="ca.maestrosoft.eclipse.cdt.plugin.studio"
+      os="win32"
+      ws="win32"
+      arch="x86,x86_64">
+
+   <description>
+      Maestrosoft Technologies Eclipse C/C++ Studio
+   </description>
+
+   <copyright url="copyright.htm">
+      MAESTROSOFT TECHNOLOGIES PROPRIETARY INFORMATION 
+This software is supplied under the terms of a license agreement
+or non disclosure agreement with Maestrosoft Technologies and
+may not be copied or disclosed except in accordance with the 
+terms of that agreement. 
+Copyright(c) 2014 Maestrosoft technologies All Rights Reserved.
+   </copyright>
+
+   <license url="license.htm">
+      MAESTROSOFT TECHNOLOGIES END USER LICENSE AGREEMENT
+
+NOTICE TO USERS: CAREFULLY READ THE FOLLOWING LEGAL AGREEMENT. USE OF THE 
+SOFTWARE PROVIDED WITH THIS AGREEMENT (THE &quot;SOFTWARE&quot;) CONSTITUTES YOUR 
+ACCEPTANCE OF THESE TERMS. IF YOU DO NOT AGREE TO THE TERMS OF THIS 
+AGREEMENT, DO NOT INSTALL AND/OR USE THIS SOFTWARE. USER&apos;S USE OF THIS 
+SOFTWARE IS CONDITIONED UPON COMPLIANCE BY USER WITH THE TERMS OF THIS 
+AGREEMENT. 
+
+
+COPYRIGHT/OWNERSHIP
+
+The Software and its source code, any accompanying printed materials and 
+all copies of the Software and printed materials are proprietary products 
+owned and copyrighted by MaestrosoftTechnologies and are protected by 
+copyright, trademark and trade secret laws and international treaty 
+provisions. The Software is licensed and not sold. Your License confers 
+no title or ownership in the Software and should not be construed as a 
+sale of any right in the Software. You acknowledge that no title to the 
+intellectual property in the Software is transferred to you. You further 
+acknowledge that title and full ownership rights to the Software will 
+remain the exclusive property of MaestrosoftTechnologies and you will not 
+acquire any rights to the Software except as expressly set forth in this 
+License. You agree that any copies of the Software will contain the same 
+proprietary notices which appear on and in the Software.
+
+The Licensee may not use, copy, emulate, reproduce, clone, rent, lease, 
+sell, sublicense, translate, modify, decompile, disassemble, otherwise 
+reverse engineer, extract images, sounds, texts, or transfer the licensed 
+program, or any subset of the licensed program, adapt or create derived 
+works based on the Software or documentation, in whole or in part, for 
+any purpose and in any manner. Any such unauthorized use shall result in 
+immediate and automatic termination of this License and may result in 
+criminal and/or civil prosecution. 
+
+
+GRANT AND RESPONSIBILITIES OF LICENSEE
+
+MaestrosoftTechnologies grants you a non-exclusive license to use this 
+Software, and any associated documentation, as indicated herein. If you 
+have purchased a Single User License, one copy of the Software may be 
+installed and used, for internal use only, on a single computer. The 
+Software is in &quot;use&quot; on a single computer when it has been loaded into 
+temporary memory (i.e. RAM) or installed into permanent memory (hard disk 
+or other device) of that computer. The Licensee may not make any 
+unauthorized copies of the Software, except that the Licensee may make 
+either one copy of the Software solely for backup or archival purposes or 
+transfer the Software to a single hard disk provided you keep the 
+original solely for backup or archival purposes.
+
+
+TERM
+
+This License is effective until terminated. You may terminate it at any 
+time by destroying the Software, together with all copies thereof. This 
+License will also terminate if you fail to comply with any term or 
+condition of this Agreement. Upon such termination, you agree to destroy 
+the Software, together with all copies thereof.
+
+
+SOFTWARE TRIAL VERSION (UNACTIVATED)
+
+The Software includes protection mechanisms to prevent the use of the 
+Software after the trial evaluation period unless the appropriate 
+password (activation code) is entered. Licensee rights to use any part of 
+the Software after the expiration of the evaluation period is subject to 
+the payment of all applicable fees and registering as a user. 
+Unregistered use of this Software after the trial evaluation period is in 
+violation of copyright laws. 
+
+
+TRIAL VERSION DISTRIBUTION
+
+You are hereby licensed to make as many copies of the Trial Version (and 
+ONLY this version) as you wish and distribute it to anyone provided that 
+all files are not modified. 
+
+No person or company may charge a fee for the distribution of the Trial 
+Version without written permission from the copyright holder. You are not 
+allowed to sell the Trial Version (except for shipment and handling 
+charges).
+
+You MAY: (a) install and use the unactivated Software (Trial Version) for 
+evaluation purpose only during 15 days after the installation; (b) 
+provide copies of the unactivated Software to others by any mean (Cover 
+Disc, CD-ROM, DVD, Web site...) for their evaluation use so long as you: 
+1) provide exact, unmodified copies of the unactivated Software received 
+from MaestrosoftTechnologies, including all accompanying files, this 
+agreement, and all copyright, trademark, proprietary, and other notices; 
+2) do not charge or collect any monetary or other compensation for or in 
+connection with MaestrosoftTechnologies; 3) reference 
+MaestrosoftTechnologies as the sole source of the Software.
+
+You MAY NOT: (a) upload the Trial Version in any peer-to-peer or file 
+sharing websites; (b) place anywhere a link to a page of a peer-to-peer 
+or file sharing websites containing the Trial Version.
+
+
+TRIAL VERSION RESTRICTIONS
+
+You MAY NOT: (a) use the Trial Version after the evaluation period of 15 
+days; (b) sell this Trial Version package; (c) cause or permit reverse 
+engineering, disassemble, decompilation or alteration of this Software; 
+(d) remove any product identification, copyright notices, or other 
+notices or proprietary restrictions from this Software; (e) copy the 
+documentation accompanying the Software.
+
+
+ACTIVATED VERSION OF THE SOFTWARE
+
+You MAY: (a) make a copy of the software for archival purpose only; 
+
+
+ACTIVATED VERSION RESTRICTIONS
+
+You MAY NOT: (a) copy, upload and distribute anywhere the Software or any 
+portion of it; (b) place anywhere a link to a page containing the 
+activated version of the Software; (c) sublicense, lease, rent, or 
+transfer this Software to another; (d) cause or permit reverse 
+engineering, disassemble, decompilation or alteration of this Software; 
+(e) remove any product identification, copyright notices, or other 
+notices or proprietary restrictions from this Software; (f) copy the 
+documentation accompanying the Software. 
+
+
+NO REFUNDS
+
+Licensee warrants that he inspected The Software according and that it is 
+adequate to his needs. Accordingly, as The Software is intangible goods, 
+Licensee shall not be, ever, entitled to any refund, rebate, compensation 
+or restitution for any reason whatsoever, even if The Software contains 
+material flaws.
+
+
+SUPPORT
+
+Software is provided under an &quot;AS-IS&quot; basis and without any support, 
+updates or maintenance. Nothing in this Agreement shall require 
+MaestrosoftTechnologies to provide Licensee with support or fixes to any 
+bug, failure, mis-performance or other defect in The Software.
+
+
+BUG NOTIFICATION
+
+Licensee may provide MaestrosoftTechnologies of details regarding any 
+bug, defect or failure in The Software promptly and with no delay from 
+such event; Licensee shall comply with Licensor&apos;s request for information 
+regarding bugs, defects or failures and furnish him with information, 
+screenshots and try to reproduce such bugs, defects or failures.
+
+
+FEATURE REQUEST
+
+Licensee may request additional features in Software, provided, however, 
+that (i) Licensee shall waive any claim or right in such feature should 
+feature be developed by Licensor; (ii) Licensee shall be prohibited from 
+developing the feature, or disclose such feature request, or feature, to 
+any 3rd party directly competing with Licensor or any 3rd party which may 
+be, following the development of such feature, in direct competition with 
+Licensor; (iii) Licensee warrants that feature does not infringe any 3rd 
+party patent, trademark, trade-secret or any other intellectual property 
+right; and (iv) Licensee developed, envisioned or created the feature 
+solely by himself.
+
+
+DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND, EITHER 
+EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT OF THIRD PARTY RIGHTS, OR OF ANY OTHER TYPE, WHETHER 
+EXPRESSED OR IMPLIED, AND TO ANY REMEDY AGAINST THE DISTRIBUTOR AND/OR 
+ITS LICENSORS, WHETHER IN CONTRACT, TORT OR OTHERWISE. MAESTROSOFT 
+TECHNOLOGIES DOES NOT WARRANT, GUARANTEE OR MAKE ANY REPRESENTATIONS THAT 
+THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET THE LICENSEE&apos;S 
+REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED 
+OR ERROR-FREE. THE USER MUST ASSUME THE ENTIRE RISK OF USING THE 
+SOFTWARE. IN ANY EVENT, THE DISTRIBUTOR&apos;S LIABILITY SHALL NOT EXCEED THE 
+AMOUNT THE LICENSEE ORIGINALLY PAID FOR THE SOFTWARE. 
+
+
+NO LIABILITY FOR CONSEQUENTIAL DAMAGES
+
+THE LICENSEE AGREES THAT NEITHER THE DISTRIBUTOR NOR ITS EMPLOYEES, 
+MANAGEMENT, OR ANYONE ELSE WHO HAS BEEN INVOLVED IN THE CREATION, 
+PRODUCTION OR DELIVERY OF THE SOFTWARE SHALL BE LIABLE FOR ANY INDIRECT, 
+INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT 
+LIMITATION, LOSS OF PROFITS, REVENUE, DATA OR USE, BUSINESS INTERRUPTION, 
+LOSS OR INACCURACY OF INFORMATION) INCURRED BY THE LICENSEE OR ANY THIRD 
+PARTY IN CONNECTION WITH OR ARISING OUT OF THE USE OF THE SOFTWARE, EVEN 
+IF THE DISTRIBUTOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+ANY LIABILITY OF THE SELLER WILL BE LIMITED TO REFUND THE PURCHASE PRICE.
+
+
+TERMINATION OF LICENSE
+
+The License will terminate automatically if the Licensee fails to comply 
+with any provisions of the License or upon transfer of the Software and 
+documentation.
+
+
+ACKNOWLEDGMENT
+
+The Licensee acknowledges that the Licensee has read the Agreement in 
+full, has fully understood its terms and agrees to be bound thereby. The 
+Agreement contains the complete and exclusive agreement between the 
+parties and supersedes all proposals or prior agreements, oral or 
+written, and any other communications between the parties and supersedes 
+all proposals or prior agreements, oral and written, and any other 
+communications between the parties relating to the subject matter of the 
+Agreement.
+   </license>
+
+   <url>
+      <discovery label="New discovery site" url="http://newsite"/>
+   </url>
+
+   <includes
+         id="ca.maestrosoft.cdt.patch.8.5"
+         version="8.5.0.qualifier"
+         os="win32"
+         ws="win32"
+         arch="x86,x86_64"/>
+
+   <requires>
+      <import plugin="org.eclipse.core.filesystem" version="1.4.100" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.resources" version="3.9.1" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.runtime" version="3.10.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.variables" version="3.2.800" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui" version="3.106.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.ide" version="3.10.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.equinox.p2.ui" version="2.3.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.core" version="5.8.0" match="compatible"/>
+      <import plugin="org.eclipse.cdt.managedbuilder.core" version="8.3.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.managedbuilder.ui" version="8.2.2" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.ui" version="5.8.1" match="compatible"/>
+   </requires>
+
+   <plugin
+         id="ca.maestrosoft.eclipse.cdt.plugin.studio"
+         os="win32"
+         ws="win32"
+         arch="x86,x86_64"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

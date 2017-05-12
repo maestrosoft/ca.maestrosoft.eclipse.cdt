@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="ca.maestrosoft.cdt.patch.8.5"
+      label="Maestrosoft Technologies CDT 8.5 Patch"
+      version="8.5.0.qualifier"
+      provider-name="Maestrosoft Technologies"
+      os="win32"
+      ws="win32"
+      arch="x86,x86_64">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.cdt.platform" version="8.5.0.201409172108" patch="true"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.cdt.managedbuilder.core"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.managedbuilder.ui"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
