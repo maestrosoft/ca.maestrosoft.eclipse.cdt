@@ -2,7 +2,7 @@
 <feature
       id="ca.maestrosoft.eclipse.feature.studio"
       label="Maestrosoft Technologies C/C++ Studio"
-      version="8.7.0.qualifier"
+      version="8.8.0.qualifier"
       provider-name="Maestrosoft Technologies"
       plugin="ca.maestrosoft.eclipse.cdt.plugin.studio"
       os="win32"
@@ -237,24 +237,21 @@ Agreement.
    </license>
 
    <includes
-         id="ca.maestrosoft.cdt.patch.8.7"
-         version="8.7.0.qualifier"
-         os="win32"
-         ws="win32"
-         arch="x86,x86_64"/>
+         id="ca.maestrosoft.cdt.patch.8.8"
+         version="8.8.0.qualifier"/>
 
    <requires>
+      <import plugin="org.eclipse.cdt.core" version="5.11.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.cdt.managedbuilder.core" version="8.4.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.cdt.managedbuilder.ui" version="8.2.2" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.ui" version="5.11.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.core.filesystem" version="1.5.0" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.core.resources" version="3.10.0" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.core.runtime" version="3.11.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.core.variables" version="3.2.800" match="greaterOrEqual"/>
       <import plugin="org.eclipse.ui" version="3.107.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.ui.ide" version="3.11.0" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.cdt.core" version="5.10.0" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.cdt.ui" version="5.10.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.cdt.platform" version="8.7.0.201506070905" match="perfect"/>
+      <import feature="org.eclipse.cdt.platform" version="8.8.0.201509131935" match="perfect"/>
+      <import plugin="org.eclipse.core.resources" version="3.10.1" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.runtime" version="3.11.1" match="greaterOrEqual"/>
    </requires>
 
    <plugin
