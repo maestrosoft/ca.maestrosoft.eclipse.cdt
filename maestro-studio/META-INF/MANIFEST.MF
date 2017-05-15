@@ -2,19 +2,19 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: MaestroSoft Studio
 Bundle-SymbolicName: ca.maestrosoft.eclipse.cdt.plugin.studio;singleton:=true
-Bundle-Version: 8.6.0.qualifier
+Bundle-Version: 8.7.0.qualifier
 Bundle-Activator: ca.maestrosoft.eclipse.cdt.plugin.studio.Activator
 Bundle-Localization: plugin
-Require-Bundle: org.eclipse.cdt.core;bundle-version="5.9.1",
+Require-Bundle: org.eclipse.cdt.core;bundle-version="5.10.0",
  org.eclipse.cdt.managedbuilder.core;bundle-version="8.4.0",
  org.eclipse.cdt.managedbuilder.ui;bundle-version="8.2.2",
- org.eclipse.cdt.ui;bundle-version="5.9.0",
- org.eclipse.core.filesystem;bundle-version="1.4.100",
- org.eclipse.core.resources;bundle-version="3.9.1",
- org.eclipse.core.runtime;bundle-version="3.10.0",
+ org.eclipse.cdt.ui;bundle-version="5.10.0",
+ org.eclipse.core.filesystem;bundle-version="1.5.0",
+ org.eclipse.core.resources;bundle-version="3.10.0",
+ org.eclipse.core.runtime;bundle-version="3.11.0",
  org.eclipse.core.variables;bundle-version="3.2.800",
- org.eclipse.ui;bundle-version="3.106.1",
- org.eclipse.ui.ide;bundle-version="3.10.2"
+ org.eclipse.ui;bundle-version="3.107.0",
+ org.eclipse.ui.ide;bundle-version="3.11.0"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ActivationPolicy: lazy
 Bundle-Vendor: Maestro Software Technologies
