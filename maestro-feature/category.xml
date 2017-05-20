@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/ca.maestrosoft.eclipse.feature.studio_9.0.0.qualifier.jar" id="ca.maestrosoft.eclipse.feature.studio" version="9.0.0.qualifier" os="win32" ws="win32" arch="x86,x86_64">
+   <feature url="features/ca.maestrosoft.eclipse.feature.studio_9.1.0.qualifier.jar" id="ca.maestrosoft.eclipse.feature.studio" version="9.1.0.qualifier" os="win32" ws="win32" arch="x86,x86_64">
       <category name="ca.maestrosoft.studio"/>
    </feature>
    <category-def name="ca.maestrosoft.studio" label="Maestro Studio">
@@ -9,3 +9,4 @@
       </description>
    </category-def>
 </site>
+

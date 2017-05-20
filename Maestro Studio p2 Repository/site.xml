@@ -21,6 +21,9 @@
    <feature url="features/ca.maestrosoft.eclipse.feature.studio_9.0.0.201705252143.jar" id="ca.maestrosoft.eclipse.feature.studio" version="9.0.0.201705252143" os="win32" ws="win32" arch="x86,x86_64">
       <category name="ca.maestrosoft.studio"/>
    </feature>
+   <feature url="features/ca.maestrosoft.eclipse.feature.studio_9.1.0.201705252156.jar" id="ca.maestrosoft.eclipse.feature.studio" version="9.1.0.201705252156" os="win32" ws="win32" arch="x86,x86_64">
+      <category name="ca.maestrosoft.studio"/>
+   </feature>
    <category-def name="ca.maestrosoft.studio" label="Maestro Studio">
       <description>
          Maestro Studio for Microsoft C/C++ compiler

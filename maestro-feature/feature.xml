@@ -2,7 +2,7 @@
 <feature
       id="ca.maestrosoft.eclipse.feature.studio"
       label="Maestrosoft Technologies C/C++ Studio"
-      version="9.0.0.qualifier"
+      version="9.1.0.qualifier"
       provider-name="Maestrosoft Technologies"
       plugin="ca.maestrosoft.eclipse.cdt.plugin.studio"
       os="win32"
@@ -237,22 +237,22 @@ Agreement.
    </license>
 
    <includes
-         id="ca.maestrosoft.cdt.patch.9.0.0"
-         version="9.0.0.qualifier"
-         name="Patch for CDT"/>
+         id="ca.maestrosoft.cdt.patch.9.1.0"
+         version="9.1.0.qualifier"
+         name="Patch for CDT 9.1.0"/>
 
    <requires>
-      <import plugin="org.eclipse.cdt.core" version="6.0.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.core" version="6.1.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.cdt.managedbuilder.core" version="8.5.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.cdt.managedbuilder.ui" version="9.0.0" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.cdt.ui" version="6.0.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.ui" version="6.1.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.core.filesystem" version="1.6.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.core.resources" version="3.11.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.core.runtime" version="3.12.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.core.variables" version="3.3.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.ui" version="3.108.0" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.ui.ide" version="3.12.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.cdt.platform" version="9.0.0.201606062011" match="perfect"/>
+      <import plugin="org.eclipse.ui.ide" version="3.12.1" match="greaterOrEqual"/>
+      <import feature="org.eclipse.cdt.platform" version="9.1.0.201609121658" match="perfect"/>
    </requires>
 
    <plugin
