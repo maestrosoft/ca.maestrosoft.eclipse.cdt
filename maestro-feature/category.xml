@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ca.maestrosoft.eclipse.feature.studio_8.4.0.qualifier.jar" id="ca.maestrosoft.eclipse.feature.studio" version="8.4.0.qualifier" os="win32" ws="win32" arch="x86,x86_64">
+      <category name="ca.maestrosoft.studio"/>
+   </feature>
+   <category-def name="ca.maestrosoft.studio" label="Maestro Studio">
+      <description>
+         Maestro Studio for Eclipse CDT
+      </description>
+   </category-def>
+</site>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="ca.maestrosoft.cdt.patch.8.5"
-      label="Maestrosoft Technologies CDT 8.5 Patch"
-      version="8.5.0.qualifier"
+      id="ca.maestrosoft.cdt.patch.8.4"
+      label="Maestrosoft Technologies CDT 8.4 Patch"
+      version="8.4.0.qualifier"
       provider-name="Maestrosoft Technologies"
       os="win32"
       ws="win32"
@@ -21,7 +21,7 @@
    </license>
 
    <requires>
-      <import feature="org.eclipse.cdt.platform" version="8.5.0.201409172108" patch="true"/>
+      <import feature="org.eclipse.cdt.platform" version="8.4.0.201406111759" patch="true"/>
    </requires>
 
    <plugin
